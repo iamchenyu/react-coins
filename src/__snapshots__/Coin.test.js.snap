@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `<DocumentFragment />`;
+
+exports[`matches the snapshot 2`] = `
+<DocumentFragment>
+  <img
+    alt="coin head image"
+    class="Coin"
+    data-testid="coin-image"
+    src="https://tinyurl.com/react-coin-heads-jpg"
+  />
+</DocumentFragment>
+`;
+
+exports[`matches the snapshot 3`] = `
+<DocumentFragment>
+  <img
+    alt="coin tail image"
+    class="Coin"
+    data-testid="coin-image"
+    src="https://www.pcgs.com/UserImages/71009269r.jpg"
+  />
+</DocumentFragment>
+`;

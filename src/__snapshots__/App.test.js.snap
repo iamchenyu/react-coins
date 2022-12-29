@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <h1>
+      Let's flip a coin!
+    </h1>
+    <div
+      class="CoinFlip-hide"
+      data-testid="flip-the-coin"
+    />
+    <button
+      class="CoinFlip-button"
+      data-testid="flip-button"
+    >
+      Flip Me!
+    </button>
+    <button
+      class="CoinFlip-hide"
+      data-testid="restart-button"
+    >
+      Restart
+    </button>
+    <p>
+      Out of 
+      <span
+        data-testid="flip-count"
+      >
+        0
+      </span>
+       flips, there have been 
+      <span
+        data-testid="head-count"
+      >
+        0
+      </span>
+       heads and 
+      <span
+        data-testid="tail-count"
+      >
+        0
+      </span>
+       tails.
+    </p>
+  </div>
+</DocumentFragment>
+`;
